@@ -1,16 +1,13 @@
-### Hi there 👋
+# Background
 
-<!--
-**ShelbyGervais/ShelbyGervais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Education:** UI/UX Certificate
+- **Career:** Former Professional Esports Player
 
-Here are some ideas to get you started:
+# Interests and Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Hobbies:** Video Games
+- **Experience:** Proficient with PC's, Consoles, and iPhones
+
+# Additional Information
+
+My background includes a UI/UX certificate, and I have experience as a former professional esports player. I have a keen interest in video games and possess hands-on experience with various platforms, including PC's, Consoles, and iPhones.
